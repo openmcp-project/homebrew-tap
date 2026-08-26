@@ -3,7 +3,7 @@
 
 class Ocpctl < Formula
   desc "CLI tool for managing OpenControlPlane environments"
-  homepage "https://openmcp-project.github.io/docs/"
+  homepage "https://open-control-plane.io"
   version "0.4.1"
   license "Apache-2.0"
 
